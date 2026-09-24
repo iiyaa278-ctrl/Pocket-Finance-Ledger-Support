@@ -19,6 +19,6 @@ Please do not include personal financial information, receipt images, account ba
 
 ## Privacy Policy
 
-[View the Privacy Policy](https://www.termsfeed.com/live/21a863e2-1383-4292-9cf8-763af3e64d93)
+[View the Privacy Policy](PRIVACY.md)
 
 Pocket Finance Ledger stores ledger data locally on the device and does not require account registration.
